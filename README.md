@@ -10,4 +10,5 @@ This repository contains code for comparing two popular multi-armed bandit algor
 - `requirements.txt`: File listing the Python packages required to run the code in `main.ipynb`.
 - `Bandit.py`: The original file given by my professor as a homework assignment.
 
-
+***Please note that `main.ipynb` serves as the main interface for running experiments and visualizing results. It is the file where I have completed the assignment and have left the `Bandit.py` as is. 
+ 
